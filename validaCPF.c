@@ -114,5 +114,7 @@ int main() {
 
     printf("\t ***CPF: %s***", cpf);
 
+    printf("TESTE\n");
+
     return 0;
 }
